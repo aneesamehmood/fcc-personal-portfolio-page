@@ -23,7 +23,7 @@ To view or use the personal portfolio webpage, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/personal-portfolio-webpage.git
+   git clone https://github.com/aneesamehmood/fcc-personal-portfolio-page.git
 
 # Acknowledgements
   freeCodeCamp for providing project guidelines and resources.
